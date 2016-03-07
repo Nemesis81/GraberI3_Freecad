@@ -1,0 +1,7 @@
+Alias	Decription	Valeurs
+EpPan	epaisseur panneau	10
+TrPasM8	Trou de passage pour M8	8.2
+ImpX	Volume d'impression	200
+ImpY		200
+impZ		200
+PrRad	Rayon mini Process	2
